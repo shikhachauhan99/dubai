@@ -12,14 +12,14 @@ app.use(express.static('public'));
 const AD_SCRIPT = `
 <script>
   atOptions = {
-    'key' : '1771cab0f8a44e122f9190993fb88b1e',
+    'key' : 'a4a3334af9862e9047460cc65065a9df',
     'format' : 'iframe',
     'height' : 90,
     'width' : 728,
     'params' : {}
   };
 </script>
-<script src="https://www.highperformanceformat.com/1771cab0f8a44e122f9190993fb88b1e/invoke.js"></script>
+<script src="https://industriousslowly.com/a4a3334af9862e9047460cc65065a9df/invoke.js"></script>
 `;
 
 const AD_TOP = `
